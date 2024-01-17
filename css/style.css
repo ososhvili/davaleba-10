@@ -104,8 +104,8 @@ p{
     width: 286px;
 }
 .bot{
+    width: 1240px;
     margin: 84px auto;
-    /* padding: 0px 98px 140px 100px; */
     display: flex;
 }
 .services{
