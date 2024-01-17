@@ -1,0 +1,46 @@
+@media(max-width: 1278px){
+    .container{
+        width: 95%;
+    }
+
+}
+@media(max-width: 1040px){
+    .bot{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .services{
+        width: 470px;
+        margin: 0;
+    }
+}
+@media(max-width: 1030px){
+    .images{
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+    }
+}
+@media(max-width: 700px){
+    .fa-bars {
+        display: block;
+    }
+    nav{
+        display: none;
+    }
+}
+@media(max-width: 670px){
+    h1{
+        font-size: 40px;
+    }
+    h2{
+        font-size: 13px;
+    }
+}
+@media(max-width:470px){
+    .services{
+        width: 286px;
+    }
+}
